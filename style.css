@@ -247,6 +247,9 @@ main.page { max-width: var(--width); margin: 0 auto; padding: 32px 16px 48px; }
 .screen .tabs .on { color: var(--m-accent); }
 .screen .tabs .on::before { opacity: 1; }
 .hero-art figcaption { text-align: center; color: var(--muted); font-size: 13px; margin-top: 14px; }
+.tour { margin: 0 auto 8px; padding: 0 16px; }
+.tour img { display: block; width: 100%; height: auto; border-radius: 18px; border: 1px solid var(--line); }
+.tour figcaption { text-align: center; color: var(--muted); font-size: 13px; margin-top: 12px; }
 .hero-art { margin: 0; }
 
 /* Sections. */
