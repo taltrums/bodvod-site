@@ -382,3 +382,8 @@ main.page { max-width: var(--width); margin: 0 auto; padding: 32px 16px 48px; }
 .launch p { color: var(--ink-2); font-size: 18px; margin: 0 0 8px; }
 .launch .soon { margin-bottom: 18px; }
 .launch .contact-line { margin-top: 22px; font-size: 16px; }
+
+/* The characters that unlock with coins, under the four that are free. */
+.earn { margin-top: 36px; }
+.earn > h3 { margin: 0 0 6px; }
+.earn > p { margin: 0 0 16px; }
